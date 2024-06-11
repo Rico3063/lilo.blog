@@ -1,7 +1,7 @@
 +++
 title = "Biodiversität in Gefahr"
 date = "2024-06-11"
-draft = false
+draft = true
 pinned = false
 tags = ["biodiversität", "artenvielfalt", "reportage"]
 image = "pexels-mhshan7-17693619-1-.jpg"
